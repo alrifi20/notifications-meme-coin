@@ -16,5 +16,16 @@ trending up or down at any given moment.
 - Automated notifications delivered directly through a **Telegram bot**
 - Helps traders make faster, data-driven trading decisions
 
+#Try the Bot
+You can try the notification bot directly on Telegram:
+@miniprojeknotifikasiBot
+https://t.me/miniprojeknotifikasiBot
 
-#How to Run
+Simply start the bot and set your target buy/sell price for any 
+meme coin on Solana — you'll get notified automatically once the 
+price hits your target.
+
+##Note
+This is a personal mini project built to explore Web3 integration, 
+real-time data monitoring, and automated Telegram notifications 
+for meme coin trading.
