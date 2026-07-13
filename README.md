@@ -15,3 +15,6 @@ trending up or down at any given moment.
   (e.g., buy at $0.003 and get notified when the price reaches $0.005)
 - Automated notifications delivered directly through a **Telegram bot**
 - Helps traders make faster, data-driven trading decisions
+
+
+#How to Run
