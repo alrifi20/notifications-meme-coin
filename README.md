@@ -9,6 +9,7 @@ market trends, making it easier to identify which meme coins are
 trending up or down at any given moment.
 
 ##Features
+
 - Real-time meme coin price tracking on the Solana network via DexScreener
 - 24/7 accurate market monitoring, including trading volume data
 - Custom price alert setup — set a buy price and a target sell price 
@@ -17,6 +18,7 @@ trending up or down at any given moment.
 - Helps traders make faster, data-driven trading decisions
 
 #Try the Bot
+
 You can try the notification bot directly on Telegram:
 @miniprojeknotifikasiBot
 https://t.me/miniprojeknotifikasiBot
@@ -26,6 +28,7 @@ meme coin on Solana — you'll get notified automatically once the
 price hits your target.
 
 ##Note
+
 This is a personal mini project built to explore Web3 integration, 
 real-time data monitoring, and automated Telegram notifications 
 for meme coin trading.
